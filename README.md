@@ -6,6 +6,7 @@ APK de Controle de cursos
 # Requerimentos 
 Java 1.8 
 Postgres 9
+
 Clone este repositório git clone https://github.com/carlosoli2011/aki-escola.git
 
 # Banco de dados
